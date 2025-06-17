@@ -12,7 +12,7 @@ This project contains an Excel dashboard analyzing sales data using Pivot Tables
 - Pivot Tables and Charts
 
 ## How to Use
-Open the Excel file `fake_sales_small.xlsx` and explore the Pivot Tables and charts on each sheet.
+Open the Excel file `sales_small.xlsx` and explore the Pivot Tables and charts on each sheet.
 
 ## Purpose
 This dashboard demonstrates my ability to analyze sales data and create professional reports using Excel.
